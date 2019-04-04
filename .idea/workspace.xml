@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71f429aa-8fa5-452e-8dc9-ec66d1ba6b87" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mediator.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mediator.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediator.html" beforeDir="false" afterPath="$PROJECT_DIR$/mediator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/internalcatagories.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/internalcatagories.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internalcatagories.html" beforeDir="false" afterPath="$PROJECT_DIR$/internalcatagories.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="internalcatagories.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="internalcatagories.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/internalcatagories.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="77" column="78" lean-forward="true" selection-start-line="77" selection-start-column="78" selection-end-line="77" selection-end-column="78" />
+            <state relative-caret-position="162">
+              <caret line="72" column="75" selection-start-line="72" selection-start-column="60" selection-end-line="72" selection-end-column="75" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#nav#0;n#section#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#section#0;n#html#0;n#!!top" expanded="true" />
@@ -34,7 +33,7 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#2;n#html#0;n#!!top" expanded="true" />
@@ -52,11 +51,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="internalcatagories.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="internalcatagories.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/internalcatagories.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="143" column="1" lean-forward="true" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
+            <state relative-caret-position="-941">
+              <caret line="190" column="4" selection-start-line="190" selection-start-column="4" selection-end-line="197" selection-end-column="5" />
+              <folding>
+                <element signature="e#728#973#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -209,12 +211,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554119716061</updated>
       <workItem from="1554119717573" duration="36952000" />
-      <workItem from="1554243262359" duration="21521000" />
+      <workItem from="1554243262359" duration="25263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58473000" />
+    <option name="totallyTimeSpent" value="62215000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,7 +231,7 @@
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11018237" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11018237" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329582" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.329582" />
@@ -548,17 +550,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/internalcatagories.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="143" column="1" lean-forward="true" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/internalcatagories.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="77" column="78" lean-forward="true" selection-start-line="77" selection-start-column="78" selection-end-line="77" selection-end-column="78" />
+        <state relative-caret-position="162">
+          <caret line="72" column="75" selection-start-line="72" selection-start-column="60" selection-end-line="72" selection-end-column="75" />
           <folding>
             <element signature="n#style#0;n#a#0;n#nav#0;n#section#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#section#0;n#html#0;n#!!top" expanded="true" />
@@ -573,7 +568,7 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#2;n#html#0;n#!!top" expanded="true" />
@@ -586,6 +581,16 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/internalcatagories.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-941">
+          <caret line="190" column="4" selection-start-line="190" selection-start-column="4" selection-end-line="197" selection-end-column="5" />
+          <folding>
+            <element signature="e#728#973#2" expanded="true" />
           </folding>
         </state>
       </provider>
