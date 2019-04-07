@@ -681,6 +681,45 @@ textarea {resize: none}
 }
 
 
+@media (max-width: 575.98px) {
+    ul.list-unstyled.infoBtn {
+        text-align: center;
+    }
+    .col-md-4.align-self-center {
+        width: auto;
+    }
+    .info-img{
+        width: auto;
+    }
+    .col-md-1.imgreceipt {
+        width: 50px;
+    }
+    .col-md-1.imgreceipt img {
+        max-width: 50px;
+    }
+}
+
+
+@media (max-width: 767.98px) {
+    ul.list-unstyled.infoBtn {
+        text-align: center;
+    }
+    .col-md-4.align-self-center {
+        width: auto;
+    }
+    .info-img{
+        width: auto;
+    }
+    .col-md-1.imgreceipt {
+        width: 50px;
+        padding: 0px;
+    }
+    .col-md-1.imgreceipt img {
+        max-width: 50px;
+    }
+}
+
+
 
 
 
