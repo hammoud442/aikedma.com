@@ -694,6 +694,8 @@ textarea {resize: none}
     .col-md-1.imgreceipt {
         width: 50px;
     }
+    .star_container {
+        width: 20px;}
     .col-md-1.imgreceipt img {
         max-width: 50px;
     }
@@ -718,6 +720,74 @@ textarea {resize: none}
         max-width: 50px;
     }
 }
+
+
+.intro {
+    margin: auto;
+    padding: 10px 0;
+    text-align: center;
+}
+.intro h1 {
+    color: #FAC917;
+}
+.star_container {
+    width: 170px;
+    margin: 0 auto;
+}
+.star_rating {
+    border: none;
+}
+.star_rating:not(:checked) > label:hover, .star_rating:not(:checked) > label:hover ~ label {
+    border-bottom: 0.7em solid #FAC917;
+}
+.star_rating:not(:checked) > label:hover:before, .star_rating:not(:checked) > label:hover ~ label:before, .star_rating:not(:checked) > label:hover:after, .star_rating:not(:checked) > label:hover ~ label:after {
+    border-bottom: 0.7em solid #FAC917;
+}
+.star_rating input {
+    cursor: pointer;
+    display: none;
+}
+.star_rating input:checked ~ label {
+    border-bottom: 0.7em solid #FAC917;
+}
+.star_rating input:checked ~ label:before, .star_rating input:checked ~ label:after {
+    border-bottom: 0.7em solid #FAC917;
+}
+.star_rating input + label {
+    cursor: pointer;
+    display: inline-block;
+    float: right;
+    position: relative;
+    margin: 12px;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0.7em solid white;
+    border-left: 0.3em solid transparent;
+}
+.star_rating input + label:hover {
+    border-bottom: 0.7em solid #FAC917;
+}
+.star_rating input + label:hover:before, .star_rating input + label:hover:after {
+    border-bottom: 0.7em solid #FAC917;
+}
+.star_rating input + label:before, .star_rating input + label:after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    border-radius: 10px;
+    position: absolute;
+    top: 0.6em;
+    left: -1em;
+    border-right: 1em solid transparent;
+    border-bottom: 0.7em solid white;
+    border-left: 1em solid transparent;
+    transform: rotate(-35deg);
+}
+.star_rating input + label:after {
+    transform: rotate(35deg);
+}
+
+
 
 
 
