@@ -760,7 +760,7 @@ textarea {resize: none}
     position: relative;
     margin: 12px;
     border-right: 0.3em solid transparent;
-    border-bottom: 0.7em solid white;
+    border-bottom: 0.7em solid grey;
     border-left: 0.3em solid transparent;
 }
 .star_rating input + label:hover {
@@ -779,7 +779,7 @@ textarea {resize: none}
     top: 0.6em;
     left: -1em;
     border-right: 1em solid transparent;
-    border-bottom: 0.7em solid white;
+    border-bottom: 0.7em solid grey;
     border-left: 1em solid transparent;
     transform: rotate(-35deg);
 }
