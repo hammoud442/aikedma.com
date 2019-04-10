@@ -1,6 +1,6 @@
 /* start navbar */
-html {
-    font-family: TheSans;
+*{
+    font-family: 'Cairo', sans-serif;
 }
 .navbar-brand{
     margin-right:0px;
