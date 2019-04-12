@@ -2,6 +2,9 @@
 *{
     font-family: 'Cairo', sans-serif;
 }
+p{
+    font-size: 13px;
+}
 .navbar-brand{
     margin-right:0px;
 }
@@ -280,6 +283,9 @@
         /* background: #a8a8a8; */
         margin-right: -29px;
     }
+    .modal .modal-dialog {
+        max-width: 100%;
+    }
 }
 select {
     text-align: center;
@@ -351,7 +357,7 @@ textarea {resize: none}
 .mainsection{
     background: #72558c;
     min-height: 50px;
-    padding: 20px 0px
+    padding: 7px 0px
 }
 .mainsection .row ul li img{
     width: 30px;
@@ -441,8 +447,9 @@ textarea {resize: none}
     background: #b9475e;
     color: #fff;
     border-radius: 10px;
-    padding: 40px 5px 40px 10px;
-    margin-right: 15px
+    padding: 20px 5px 20px 10px;
+    margin-right: 15px;
+    margin-bottom: 20px;
 }
 .thirdDesc{
     width: 40%
@@ -499,7 +506,7 @@ textarea {resize: none}
     background: #b9475e;
     color: #fff;
     border-radius: 10px;
-    padding: 40px 20px 40px 10px;
+    padding: 20px 20px 20px 10px;
     margin-right: 15px;
     width: 80%
 }
@@ -591,7 +598,7 @@ textarea {resize: none}
         margin: 0
     }
     .info{
-        text-align: right;
+        text-align: center;
         margin: 25px 0px
     }
     .imgreceipt{
@@ -666,7 +673,7 @@ textarea {resize: none}
 }
 
 .h4, h4{
-    font-size: 15px;
+    font-size: 13px;
 }
 .footer {
     height: 100px;
@@ -787,14 +794,21 @@ textarea {resize: none}
     transform: rotate(35deg);
 }
 
-.card-body .image-card-back{
-    background : url("../images/background-dailog.png")  no-repeat center center ;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    width: 100%;
-    height: 250px;
+.badge-light{
+    color: #545871;
+    background-color:white;
+    margin-right: 10px;
+}
+.dropdown-item{
+    text-align: right;
+}
+
+.footer a{
+    color: white;
+}
+.footer a:hover{
+    text-decoration: none;
+    color: #C6926B;
 }
 
 
