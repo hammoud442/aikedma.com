@@ -722,6 +722,15 @@ textarea {resize: none}
     .footer form input{
         margin-top: 7px;
     }
+    .thirdDesc{
+        width: 70%
+    }
+    .leftDesc .firstDesc .firsInfoItem{
+        width: 70%
+    }
+    .fourthpart .fourthInfoItem{
+        width: 80%
+    }
 }
 
 
