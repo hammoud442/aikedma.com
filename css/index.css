@@ -420,11 +420,11 @@ textarea {resize: none}
 /*mainsection end*/
 
 /*start conversation*/
-.conversation{
-    padding: 40px 0px 40px 20px;
-    overflow-y: scroll;
-    min-height: 1200px
-}
+/*.conversation{*/
+    /*padding: 40px 0px 40px 20px;*/
+    /*overflow-y: scroll;*/
+    /*min-height: 1200px*/
+/*}*/
 .rightDesc{
     margin-right: 20px
 }
@@ -676,12 +676,12 @@ textarea {resize: none}
     font-size: 13px;
 }
 .footer {
-    height: 100px;
+    height: 70px;
     padding-top : 0px
 }
 .footer form input{
-    height: 50px;
-    margin-top: 27px;
+    height: 40px;
+    margin-top: 0px;
 }
 .footer form{
     padding: 0px;
@@ -809,6 +809,10 @@ textarea {resize: none}
 .footer a:hover{
     text-decoration: none;
     color: #C6926B;
+}
+.mainsection button{
+    text-align: left;
+
 }
 
 
