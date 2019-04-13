@@ -91,6 +91,9 @@ p{
     .footer .p-text8 {
         margin-right: -98px;
     }
+    .footer form input{
+        margin-top: 7px;
+    }
 }
 
 .add .time{
@@ -154,6 +157,9 @@ p{
     .navbar-expand-lg .navbar-nav .nav-link{
         padding-right: 1rem;
     }
+    .footer form input{
+        margin-top: 7px;
+    }
 }
 
 @media (max-width: 991.98px) {
@@ -168,6 +174,9 @@ p{
 
     .add .user{
         margin-right: 35px;
+    }
+    .footer form input{
+        margin-top: 7px;
     }
 }
 
@@ -286,6 +295,7 @@ p{
     .modal .modal-dialog {
         max-width: 100%;
     }
+
 }
 select {
     text-align: center;
@@ -590,6 +600,9 @@ textarea {resize: none}
     /* .collapse{
          display: block
      }*/
+    .footer form input{
+        margin-top: 7px;
+    }
     .navbar-nav .nav-link{
         padding: 0;
         display: inline-block
@@ -706,6 +719,9 @@ textarea {resize: none}
     .col-md-1.imgreceipt img {
         max-width: 50px;
     }
+    .footer form input{
+        margin-top: 7px;
+    }
 }
 
 
@@ -725,6 +741,9 @@ textarea {resize: none}
     }
     .col-md-1.imgreceipt img {
         max-width: 50px;
+    }
+    .footer form input{
+        margin-top: 7px;
     }
 }
 
@@ -813,6 +832,9 @@ textarea {resize: none}
 .mainsection button{
     text-align: left;
 
+}
+.modal .img-fluid{
+    background-color: transparent!important;
 }
 
 
