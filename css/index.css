@@ -356,8 +356,8 @@ textarea {resize: none}
 
 .mainsection{
     background: #72558c;
-    min-height: 50px;
-    padding: 7px 0px
+    max-height: 66px;
+    padding: 7px 0px;
 }
 .mainsection .row ul li img{
     width: 30px;
@@ -482,7 +482,7 @@ textarea {resize: none}
 .fifthDesc{
     position: fixed;
     left: 15px;
-    top: 300px;
+    top: 350px;
 }
 .fifthDesc ul li img{
     width: 80px
